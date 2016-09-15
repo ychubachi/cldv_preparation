@@ -1,0 +1,6 @@
+* コラボレイティブ開発特論の事前準備
+- 事前準備についてです．
+- インストールするソフトウェア
+  - Git for Windows （Windowsのみ）
+  - VirtualBox
+  - Vagrant
